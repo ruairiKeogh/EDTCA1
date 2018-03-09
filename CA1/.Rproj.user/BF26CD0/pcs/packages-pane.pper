@@ -1,0 +1,7 @@
+{
+    "installOptions" : {
+        "installDependencies" : true,
+        "installFromRepository" : true,
+        "libraryPath" : "\\\\COMPHOME/homedir$/X00121581/Documents/R/win-library/3.4"
+    }
+}
